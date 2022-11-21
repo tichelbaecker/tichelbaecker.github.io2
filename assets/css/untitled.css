@@ -1,0 +1,42 @@
+.foto {
+  background-image: url("../../assets/img/foto.jpg");
+}
+
+.foto {
+  width: 275px;
+  height: 275px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 200px;
+  margin-bottom: 5%;
+  margin-top: 20px;
+}
+
+.text-intro {
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+.icons {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.list-papers {
+  margin-left: 0%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+
+.heading-papers {
+  margin-top: 5%;
+}
+
+@media (min-width: 900px) {
+  .div-foto {
+    position: fixed;
+    margin-left: 5%;
+  }
+}
+
